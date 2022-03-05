@@ -82,7 +82,7 @@
         <commons-cli.version>1.2</commons-cli.version>
         <rocketmq.version>4.9.0</rocketmq.version>
         <surefire.version>2.19.1</surefire.version>
-        <aspectj.version>1.9.6</aspectj.version>
+        <aspectj.version>1.9.8</aspectj.version>
         <lombok.version>1.18.12</lombok.version>
         <main.basedir>${basedir}/../..</main.basedir>
         <docker.image.prefix>apacherocketmq</docker.image.prefix>
